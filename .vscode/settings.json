@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 17,
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": 
+        {
+            "terminalCursor.foreground": "#00ff00"
+        }
+}
