@@ -1,3 +1,3 @@
 # Tic Tac Toe
 
-A game made with Flutter framework.
+A simple tic tac toe game made with Flutter Framework.
